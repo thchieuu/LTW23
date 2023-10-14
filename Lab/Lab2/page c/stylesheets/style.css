@@ -1,0 +1,345 @@
+body{
+    background: #fff;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Open Sans',sans-serif !important;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+div{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#page{
+    width: 100%;
+}
+
+.container{
+  margin: 0 238px;
+  position: relative;
+}
+#section_header_2_dark{
+    overflow: auto;
+}
+
+#section_header_2_dark .navbar-toggle.pix_text{
+    display: none;
+}
+
+#section_header_2_dark .header_nav_1.dark.pix_builder_bg{
+    background: #333333;
+    overflow: auto;
+}
+
+#section_header_2_dark .navbar-header{
+    float: left;
+}
+
+#section_header_2_dark .pix_nav_logo{
+    padding: 30px 0 0;
+}
+
+#section_header_2_dark .navbar-right{
+    float: right;
+}
+
+#section_header_2_dark .propClone{
+    list-style: none;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 25px 20px;
+    float: left;
+}
+
+#section_header_2_dark .propClone a{
+    text-decoration: none;
+}
+
+#section_pix_4{
+    text-align: center;
+}
+
+#section_pix_4 .creative_header{
+    position: relative;
+    box-shadow: none;
+    padding: 0;
+    background: #333;
+}
+
+#section_pix_4 .section_video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 100%;
+    min-width: 100%;
+    overflow: hidden;
+    z-index: 10;
+    background: #eee;
+}
+
+#section_pix_4 .section_video .bgvid{
+    z-index: 2;
+    background-size: cover;
+}
+
+.creative_video_header .section_wrapper {
+    background: rgba(0,0,0,0.5);
+    padding: 100px 0;
+    position: relative;
+    z-index: 10;
+    zoom: 1;
+}
+
+#section_pix_4 .title_style{
+    font-size: 48px;
+    color: #fff;
+    font-weight: 700;
+    padding-top: 160px;
+    line-height: 100%;
+}
+
+#section_pix_4 .subtitle_style{
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #d3d3d3;
+    font-size: 18px;
+    line-height: 150%;
+    padding: 30px 0;
+}
+
+#section_pix_4 .email_subscribe{
+    background: #000000b3;
+    border-radius: 5px;
+    display: inline-block;
+    max-width: 470px;
+    height: 70px;
+    padding: 0 15px;
+    text-align: left;
+}
+
+#section_pix_4 .email_subscribe #contact_form input{
+    background: #fff;
+    border-radius: 3px;
+    color: #000;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 8px 10px;
+    width: 270px;
+    position: relative;
+    display: inline-block;
+    top: 15px;
+}
+
+#section_pix_4 .subscribe_btn{
+    background: #f1c232;
+    border-radius: 3px;
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+    text-decoration: none;
+    position: relative;
+    padding: 9px 14px;
+    margin-left: 10px;
+    border: none;
+    top: 15px;
+}
+
+#section_pix_4 .note_st{
+    text-align: center;
+    color: #add8e6;
+    font-size: 13px;
+    padding-bottom: 80px;
+    padding-top: 20px;
+}
+
+#hidden_pix_1{
+    display: none;
+}
+
+#section_university_5 .join_us_section{
+    padding: 30px 0;
+    overflow: auto;
+}
+
+#section_university_5  .alpha{
+    float: left;
+    width: 460px;
+}
+
+#section_university_5 .zone_left{
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    padding: 30px 0;
+}
+
+#section_university_5  .alpha .zone_left .psingle_item {
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+#section_university_5  .alpha .zone_left .psingle_item img{
+    position: relative;
+    float: left;
+    padding-top: 10px;
+    width: 25%;
+}
+
+#section_university_5  .alpha .zone_left .text_st{
+    position: relative;
+    float: right;
+    text-align: left;
+    width: 68%;
+    padding-left: 15px;
+    padding-bottom: 30px;
+}
+
+#section_university_5  .alpha .zone_left .text_st .title_st{
+    color: #000;
+    font-size: 22px;
+    line-height: 28px;
+    font-weight: normal;
+}
+
+#section_university_5  .alpha .zone_left .text_st .subject_st{
+    color: #a9a9a9;
+    font-size: 16px;
+    line-height: 26px;
+    width: 100%;
+    font-weight: normal;
+}
+
+#section_university_5 .omega{
+    float: right;
+}
+
+#section_university_5 .substyle{
+    background: #ebeaea;
+    padding-top: 40px;
+    padding-bottom: 5px;
+    border-radius: 3px;
+    width: 340px;
+    height: 500px;
+    text-align: center;
+}
+
+#section_university_5 .substyle .title-style{
+    margin-left: 20px;
+    color: #000;
+    font-size: 22px;
+}
+
+#section_university_5 .substyle .text-style{
+    position: relative;
+    font-size: 14px;
+    color: #a9a9a9;
+    margin-left: 20px;
+}
+
+#section_university_5 .substyle #contact_form {
+    color: #000;
+    font-size: 11px;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#section_university_5 .substyle #contact_form input{
+    background: #fff;
+    padding: 15px 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: #000;
+    font-size: 14px;
+    position: relative;
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+
+#section_university_5 .substyle #contact_form select{
+    background: #fff;
+    padding: 15px 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: #000;
+    font-size: 14px;
+    position: relative;
+    width: 100%;
+    height: 42px;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+
+#section_university_5 .substyle .submit_btn{
+    background: #7cc576;
+    padding: 10px 30px;
+    box-shadow: none;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 400;
+    text-shadow: none;
+    position: relative;
+    display: inline-block;
+}
+
+#hidden_pix_6{
+    display: none;
+}
+
+#section_ecourse_7  {
+    overflow: auto;
+}
+
+#section_ecourse_7 .foot_st{
+    background: #f6f6f6;
+    text-align: center;
+}
+
+#section_ecourse_7 .alpha{
+    float: left;
+}
+
+#section_ecourse_7 .alpha .rights_st{
+    color: #a9a9a9;
+    font-size: 14px;
+    text-align: left;
+    position: relative;
+    display: inline-block;
+}
+
+#section_ecourse_7 .alpha .rights_st .pixfort_st{
+    color: #674397;
+    font-weight: 700;
+    font-size: 14px;
+    text-align: left;
+    position: relative;
+    display: inline-block;
+}
+
+#section_ecourse_7 .omega{
+    width: 520px;
+    float: right;
+}
+
+#section_ecourse_7 .omega .likes_st{
+    color: #a9a9a9;
+    font-size: 14px;
+    position: relative;
+    display: inline-block;
+    padding-right: 15px;  
+    margin-bottom: 50px;  
+}
+
+#section_ecourse_7 .omega .bottom-icons{
+    list-style: none;
+}

@@ -1,0 +1,186 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: white;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#page{
+    width: 100%;
+}
+
+.container{
+  margin: 0 238px;
+}
+
+#page #section_normal_1{
+    height: 40px;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 20px 0 15px;
+}
+
+#page #section_normal_1 .sixteen{
+    margin: 0 10px;
+}
+
+#page #section_normal_1 .alpha{
+    float: left;
+}
+
+
+#page #section_normal_1 .omega{
+    float: right;
+    margin-left: 5px;
+    margin: 0 0 0 5px;
+}
+
+#page #section_normal_1 .omega .htext_style{ 
+    color: #a9a9a9;
+    margin: 0 15px 0 0;
+    padding: 5px 0 0 0;
+    float: left ;
+}
+
+#page #section_normal_4_2{
+    background: #333333;
+    padding: 60px 0;
+    margin: 0 10px;
+    line-height: 24px;
+    overflow: auto;
+
+}
+
+#page #section_normal_4_2 .alpha{
+    float: left;
+}
+
+#page #section_normal_4_2 .omega{
+    width: 50%;
+    margin: 0 0 0 10px;
+    float: right;
+
+}
+
+#page #section_normal_4_2 .omega .big_text{
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 30px;
+    color: #2dc0e8;
+    margin: 0 0 10px 0;
+}
+
+#page #section_normal_4_2 .omega .big_title{
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 52px;
+    color: white;
+    margin: 0 0 20px 0;
+}
+
+#page #section_normal_4_2 .omega .normal_text{
+   font-size: 16px;
+   line-height: 24px;
+   color: #999;
+   margin: 0 0 20px 0;
+}
+
+#page #section_normal_4_2 .omega .pix_button{
+    background: #2dc0e8;
+    color: white;
+    text-decoration: none;
+    padding: 12px 16px;
+    margin: 5px 0;
+}
+
+#page #section_normal_6{
+    color: #696969;
+    text-align: center;
+    padding: 40px 0;
+    margin: 0 10px;
+    border-bottom: 3px solid #ddd;
+    overflow: auto;
+}
+
+#page #section_normal_6 .L1_style{
+    font-size: 20px;
+    font-weight: 800;
+    margin: 0;
+}
+
+#page #section_normal_6 .L2_style{
+    font-size: 16px;
+    color: #a9a9a9;
+    padding: 10px 0;
+    margin: 0;
+}
+
+#page #section_normal_6 .logo_style{
+    border-radius: 100%;
+    float: left;
+    margin: 25px 13px;
+}
+
+#page #section_normal_6 .alpha{
+    width: 48%;
+    margin: 40px 0 10px 0;
+    float: left;
+    border-radius: 5px;
+    border: 3px solid #ddd;
+}
+
+#page #section_normal_6 .omega{
+    width: 48%;
+    margin: 40px 0 0 10px;
+    float: right;
+    border-radius: 5px;
+    border:  3px solid #ddd;
+}
+
+#page #section_agency_5 {
+    height: 450px;
+    text-align: center;
+}
+
+#page #section_agency_5 .f1_style{
+    font-weight: 500;
+    font-size: 26px;
+    padding: 60px 0 0;
+    color: #5b9a68;
+}
+
+#page #section_agency_5 .f2_style{
+    font-weight: 500;
+    font-size: 16px;
+    padding: 30px 0 ;
+    margin: 0 190px;
+    color: #a9a9a9;
+}
+
+#page #section_agency_5 .second_link{
+    padding-bottom: 40px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#page #section_agency_5 .second_link .slow_fade{
+    color: #4d8c5a;
+    border: 2px solid #5b9a68;
+    padding: 20px 35px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+#page #section_agency_5 .pix_text{
+    font-size: 14px;
+    color: #a9a9a9;
+}
+
+#page #section_agency_5 .pix_text .pixfort_st{
+    font-weight: bold;
+}
+
+#page #section_agency_5 .center_btn{
+    padding: 30px 0;
+}
