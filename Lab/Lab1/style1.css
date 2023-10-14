@@ -1,0 +1,63 @@
+#container {
+    width: 1200px;
+    margin: auto ;
+    border: 3px solid black;
+   
+
+}
+#container header {
+    font-size: xx-large;
+    height: 50px;
+    background: #6a888a;
+    border: 3px solid black;
+    margin: 2px;
+    
+    
+  
+    
+}
+#container  #content {
+    height: 300px;
+    
+    
+}
+
+#container #content #left {
+    
+    background: rgb(204, 204, 22);
+    height: 300px;
+    width: 345px;
+    float: left;
+    margin: 2px;
+    border: 2px solid;
+   
+    
+}
+#container #content #left h1{
+   margin: 0px;
+   font-size: medium;
+   
+}
+#container #content #left p{
+    margin: 0px;
+}
+
+#container #content #right {
+    margin: 2px;
+    border: 2px solid;   
+    background: white;
+    height: 300px;   
+    width: 839px;
+    float: right   ;
+}
+
+#container footer{  
+    line-height: 50px;
+    height: 50px;
+    background: #6a888a;
+    overflow: auto;
+    text-align: center;
+    width: 1192px;
+    margin: 2px;
+    border: 2px solid;    
+}

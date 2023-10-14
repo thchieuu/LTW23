@@ -1,0 +1,76 @@
+#container {
+    width: 900px;
+    margin: auto;
+   
+    
+}
+
+#container header{
+    border: solid 1px black;
+    height: 120px;
+    background:rgb(200, 158, 94);
+    text-align: center;
+    font-size: 30px;
+    line-height: 50px;
+    color: white;
+}
+
+#container #content #image{
+    border: solid 1px black;
+    line-height: 100px;
+    text-align: center;
+    color: white;
+    height: 390px;
+    background-color: darkgrey;
+    margin-top: 20px;
+}
+#container #content #image h1{
+    font-size: 30px;
+    color: white;
+    padding-top: 80px;
+}
+
+
+
+#container #content #ourservices{
+    font-size: 50px;
+    text-align: center;
+}
+
+#container #content #services{
+    background-color: white;
+    height: 680px;
+    text-align: center;
+    color: white;
+    line-height: 150px;
+    font-size: 30px;
+   
+}
+
+
+#container #content #services .ser{
+    background-color: darkgray;
+    width: 180px;
+    height: 220px;
+    float: left;
+    border: 2px solid black;
+    margin: 58px;
+}
+#container #content #services .ser h1{
+    text-align: center;
+    line-height: 60px;
+    font-size: 30px;
+    color: white;
+}
+
+#container footer {
+    overflow: auto;
+    text-align: center;
+    width: 900px;
+    height: 120px;
+    background-color:rgb(18, 18, 122);
+    font-size: 30px;
+    line-height: 50px;
+    color: white;
+    border: solid 1px black;
+}

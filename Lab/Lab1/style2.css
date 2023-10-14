@@ -1,0 +1,56 @@
+#container{
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+    font-size: larger;
+    border: 1px solid;
+    font-weight: bold;
+    
+}
+
+#container header{
+    height: 60px;
+   border-bottom: 1px solid;
+   line-height: 60px;
+   
+}
+
+#container nav{
+    height: 60px;
+    border-bottom: 1px solid;
+    line-height: 60px;
+   
+}
+
+#container #content {
+    height: 300px;
+   
+    
+}
+
+#container #content #left {
+    float: left;
+   border-right: 1px solid;
+    line-height: 300px;
+    width: 200px;
+    
+}
+
+#container #content #right{
+    
+    line-height: 300px;
+    float: right;
+    width: 998px;
+    
+    
+    
+}
+
+#container footer{
+    overflow: auto;
+    height: 80px;
+    border-top: 1px solid;
+    line-height: 80px;
+  
+    
+}
